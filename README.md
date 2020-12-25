@@ -13,7 +13,7 @@ Esta é uma página de captura, que coleta emails (ou qualquer outro dado que vo
 ___
 
 ## Dome
-Acesse a <a href="https://gustavodias7.github.io/pagina-de-captura/">demonstração</a> do site.
+Acesse a <a href="https://gustavodias7.github.io/pagina-de-captura/index.html">demonstração</a> do site.
 ___
 
 ## Status
