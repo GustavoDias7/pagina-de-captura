@@ -21,5 +21,10 @@ Projeto não terminado. Ainda falta:
 - Integração com o Mailchim.
 ___
 
+## Meus Contatos
+- <a href="https://www.linkedin.com/in/gustavo-dias-3100211b6/">Linkedin</a>
+- <a href="https://www.instagram.com/eu.gustavodias/">Instagram</a>
+___
+
 ## Créditos 
-O layout foi foremente inspirado em uma imagem do site <a href="https://www.mailerlite.com/features/landing-pages">mailerlite</a>.
+O layout foi fortemente inspirado em uma imagem do site <a href="https://www.mailerlite.com/features/landing-pages">mailerlite</a>.
