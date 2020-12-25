@@ -1,3 +1,25 @@
-# Colors
+<br />
+<p align="center">
+ 
+   <img src="./design/desktop.png" alt="demo" border="0" width="75%" style="display: inline">
+   <img src="./design/mobile.png" alt="demo" border="0" width="13.8%" style="display: inline">
 
-blue = 
+</p>
+
+# Página de Captura
+
+## Alô Marketeiros 😁
+Esta é uma página de captura, que coleta emails (ou qualquer outro dado que você queira) e manda para uma conta no site <a href="https://mailchimp.com/">Mailchim</a>, onde você pode facilmente gerenciar as informações e exportar os contatos no formato de Excel (.xlsx) por exemplo.
+___
+
+## Dome
+Acesse a <a href="https://gustavodias7.github.io/pagina-de-captura/">demonstração</a> do site.
+___
+
+## Status
+Projeto não terminado. Ainda falta:
+- Integração com o Mailchim.
+___
+
+## Créditos 
+O layout foi foremente inspirado em uma imagem do site <a href="https://www.mailerlite.com/features/landing-pages">mailerlite</a>.
